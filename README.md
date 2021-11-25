@@ -1,7 +1,8 @@
 # Hello there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYasarKah%2FYasarKah&count_bg=%2379C83D&title_bg=%23555555&icon=tesla.svg&icon_color=%23E7E7E7&title=Efsane&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enisgetmez&hide=contribs,prs,issues&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yasar
+kah=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔧 Technologies & Tools
