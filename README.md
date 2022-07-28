@@ -1,8 +1,8 @@
 <h1 align="center">🤠 Merhaba, Ben Yaşar.</h1>
 <div align="center">
 	
-[![Linkedin](https://img.shields.io/badge/Linkedin-okinelog-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okinelog/)
-[![Instagram](https://img.shields.io/badge/Instagram-okinelog-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okinelog/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-okinelog-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasarkah/)
+[![Instagram](https://img.shields.io/badge/Instagram-okinelog-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasarkah.ino/)
 
 </div>
 <br>
