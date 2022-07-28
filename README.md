@@ -1,16 +1,55 @@
-# Hello there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYasarKah%2FYasarKah&count_bg=%2379C83D&title_bg=%23555555&icon=tesla.svg&icon_color=%23E7E7E7&title=Efsane&edge_flat=true)](https://hits.seeyoufarm.com)
+<h1 align="center">🤠 Merhaba, Ben Yaşar.</h1>
+<div align="center">
+	
+[![Linkedin](https://img.shields.io/badge/Linkedin-okinelog-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okinelog/)
+[![Instagram](https://img.shields.io/badge/Instagram-okinelog-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okinelog/)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yasarkah&count_private=true&theme=tokyonight&showicons=true)]()
+</div>
+<br>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+<h3>Hakkımda</h3>
+
+ ```json
+{
+    "isim" : "Yasin Erdoğmuş",
+    "dogum_tarihi" : "12 Ocak 2001",
+    "konum" : "Istanbul, Türkiye",
+    "egitim" : [
+        {
+            "type" : "Lise",
+            "isim" : "Gültepe Mesleki ve Teknik Anadolu Lisesi",
+            "yil" : "2020"
+        }
+    ],
+    "programlama_dilleri": [
+        "Python","Javascript","Java","C#","PHP", "CSS"
+    ],
+    "is_gecmisi" : [
+		{
+			"isim" : "Innova Bilişim",
+			"aralik" : "Eyl 2018 - Mar 2019",
+			"unvan" : "Stajyer"
+		},
+		{
+			"isim" : "Jr. Robotics",
+			"aralik" : "Mar 2019 - Haz 2019",
+			"unvan" : "Stajyer"
+		},
+		{
+			"isim" : "Jr. Robotics",
+			"aralik" : "Haz 2019 - Haz 2022",
+			"unvan" : "Eğitmen / Mentör"
+		},
+		{
+			"isim" : "Turkol Yazılım Bilgisayar Sanayi ve Ticaret Limited Şirketi",
+			"aralik" : "Haz 2021 - Halen",
+			"unvan" : "Full Stack Yazılım Geliştiricisi"
+		},
+		{
+			"isim" : "Urban Hacks",
+			"aralik" : "Nis 2022 - Halen",
+			"unvan" : "Full Stack Yazılım Geliştiricisi"
+		},
+	]
+}
+ ```
