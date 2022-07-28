@@ -11,30 +11,33 @@
 
  ```json
 {
-    "isim" : "Yasin Erdoğmuş",
-    "dogum_tarihi" : "12 Ocak 2001",
+    "isim" : "Yaşar Kahramaner",
+    "dogum_tarihi" : "09 Ekim 1999",
     "konum" : "Istanbul, Türkiye",
     "egitim" : [
         {
             "type" : "Lise",
             "isim" : "Gültepe Mesleki ve Teknik Anadolu Lisesi",
-            "yil" : "2020"
+	    "bölüm" : "Bilgisayar Destekli Makine İmalatı",
+            "yil" : "2017"
+        },
+	{
+            "type" : "Üniversite",
+            "isim" : "Üsküdar Üniversitesi",
+	    "bölüm" : "Biyomedikal Cihazlar Teknolojisi",
+            "yil" : "2022"
+        },
+	{
+            "type" : "Üniversite",
+            "isim" : "Anadolu Üniversitesi",
+	    "bölüm" : "Bilgisayar Programcılığı",
+            "yil" : "2024"
         }
     ],
     "programlama_dilleri": [
         "Python","Javascript","Java","C#","PHP", "CSS"
     ],
     "is_gecmisi" : [
-		{
-			"isim" : "Innova Bilişim",
-			"aralik" : "Eyl 2018 - Mar 2019",
-			"unvan" : "Stajyer"
-		},
-		{
-			"isim" : "Jr. Robotics",
-			"aralik" : "Mar 2019 - Haz 2019",
-			"unvan" : "Stajyer"
-		},
 		{
 			"isim" : "Jr. Robotics",
 			"aralik" : "Haz 2019 - Haz 2022",
@@ -43,12 +46,17 @@
 		{
 			"isim" : "Turkol Yazılım Bilgisayar Sanayi ve Ticaret Limited Şirketi",
 			"aralik" : "Haz 2021 - Halen",
-			"unvan" : "Full Stack Yazılım Geliştiricisi"
+			"unvan" : "Yazılım Geliştiricisi"
+		},
+		{
+			"isim" : "Mapvision Coğrafi Otomasyon Çözümleri ve Yazılım Ticaret Sny.Ltd.Şti",
+			"aralik" : "Kas 2021 - Haz 2022",
+			"unvan" : "Yazılım Geliştiricisi"
 		},
 		{
 			"isim" : "Urban Hacks",
 			"aralik" : "Nis 2022 - Halen",
-			"unvan" : "Full Stack Yazılım Geliştiricisi"
+			"unvan" : "Yazılım Geliştiricisi"
 		},
 	]
 }
