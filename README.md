@@ -60,9 +60,14 @@
 		},
 		{
 			"isim": "Urban Hacks",
-			"aralik": "Nis 2022 - Halen",
+			"aralik": "Nis 2022 - Eyl 2022",
 			"unvan": "Yazılım Geliştiricisi"
 		},
+		{
+			"isim": "Global Teknoloji",
+			"aralik": "Eki 2022 - Halen",
+			"unvan": "Yazılım Geliştiricisi"
+		}
 	]
 }
  ```
