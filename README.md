@@ -2,7 +2,7 @@
 <div align="center">
 	
 [![Linkedin](https://img.shields.io/badge/Linkedin-yasarkah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasarkah/)
-[![Instagram](https://img.shields.io/badge/Instagram-yasarkah.ino-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasarkah.ino/)
+[![Instagram](https://img.shields.io/badge/Instagram-yasarkah-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasarkah/)
 
 </div>
 <br>
